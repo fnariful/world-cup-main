@@ -1,0 +1,136 @@
+main{
+    position: relative;
+    width: 1600px;
+    height: 1800px;
+    background-color: white fixed;
+    font-family: 'Poppins', sans-serif;
+    justify-content: center;
+}
+/* section-1 */
+
+.section-1{
+    display:flex;
+    background-color: black;
+    width: 1321px;
+    height: 646px;
+    margin-top: 50px;
+    margin-left: 140px ;
+    border-radius: 20px;
+}
+.h1{
+    font-size: 55px;
+    font-weight: 700;
+}
+.div-1{
+    color: white;
+    padding-top: 100px;
+    padding-left: 10%;
+    width: 50%;
+    
+    
+}
+.div-2{
+    width: 640px;
+    height: 500px;
+   padding-top: 300px;
+}
+.btn{
+    background-color: #DD0000;
+    color: aliceblue;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    width: 252px;
+    height: 64px;
+    text-decoration: none;
+}
+    .btn-2{
+        background-color: #FFFFFF;
+        color: black;
+        border-radius: 10px;
+        font-size: 20px;
+        font-weight: 400;
+        margin-top: 25px;
+        width: 252px;
+        height: 64px;
+        text-decoration: none;
+    }
+    .btn3{
+        background-color: aliceblue;
+        color: rgb(66, 62, 62);
+        border-radius: 5px;
+        margin-left: 15px;
+        margin-right: 150px;
+        font-size: 18px;
+        margin-top: 10px;
+    }
+  /* -------------section-2
+  ---------------------------   */
+
+.section-2 {
+    display: flex;
+    width: 1321px;
+    height: 646px;
+    margin-left: 145px;
+    margin-top: 150px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+   
+
+
+}
+.div3{
+    display: grid;
+    background-color: black;
+    border-radius: 10px;
+    width: 312px;
+    height: 312px;
+    justify-content: center;
+    justify-items: center;
+    margin: 5px;
+}
+
+.div4{
+    display:grid;
+    border-radius: 10px;
+    width: 312px;
+    height: 362px;
+    border: 1px darkgrey solid;
+    margin: 5px;
+}
+.blog-images{
+        width: 312px;
+        height: 175px;
+}
+/*------------------- footer 
+-----------------------------------*/
+
+.footer{
+  background-color: black;
+  color: antiquewhite;
+   padding-top: 160px;
+   padding-bottom: 160px;
+   margin-bottom: 160px;
+   margin-top: 160px;
+   text-align: center;
+   text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: antiquewhite;
+    background-color: black;
+    
+}
+image{
+    width: 120px;
+    height: 80px;
+}
+.para{
+    margin: 10px;
+    font-size: 18px;
+    font-weight: 400px;
+}
+.icon{
+    display: inline;
+    margin-left: 10px;
+}
